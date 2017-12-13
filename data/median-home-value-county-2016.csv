@@ -54,7 +54,7 @@
 "Fairfield County","09001","2012-2016","Number","Median Home Value",413400
 "Fairfield County","09001","2012-2016","Number","Margins of Error",4573
 "Fairfield County","09001","2012-2016","Ratio to State Median","Median Home Value",1.54
-"Fairfield County","09001","2012-2016","Ratio to State Median","Margins of Error",0.01
+"Fairfield County","09001","2012-2016","Ratio to State Median","Margins of Error",0.02
 "Hartford County","09003","2006-2010","Number","Median Home Value",247400
 "Hartford County","09003","2006-2010","Number","Margins of Error",1442
 "Hartford County","09003","2006-2010","Ratio to State Median","Median Home Value",0.83
@@ -114,7 +114,7 @@
 "Middlesex County","09007","2006-2010","Number","Median Home Value",307400
 "Middlesex County","09007","2006-2010","Number","Margins of Error",4434
 "Middlesex County","09007","2006-2010","Ratio to State Median","Median Home Value",1.04
-"Middlesex County","09007","2006-2010","Ratio to State Median","Margins of Error",0.01
+"Middlesex County","09007","2006-2010","Ratio to State Median","Margins of Error",0.02
 "Middlesex County","09007","2007-2011","Number","Median Home Value",306900
 "Middlesex County","09007","2007-2011","Number","Margins of Error",5043
 "Middlesex County","09007","2007-2011","Ratio to State Median","Median Home Value",1.05
@@ -198,7 +198,7 @@
 "Tolland County","09013","2006-2010","Number","Median Home Value",266100
 "Tolland County","09013","2006-2010","Number","Margins of Error",3995
 "Tolland County","09013","2006-2010","Ratio to State Median","Median Home Value",0.9
-"Tolland County","09013","2006-2010","Ratio to State Median","Margins of Error",0.02
+"Tolland County","09013","2006-2010","Ratio to State Median","Margins of Error",0.01
 "Tolland County","09013","2007-2011","Number","Median Home Value",266300
 "Tolland County","09013","2007-2011","Number","Margins of Error",3496
 "Tolland County","09013","2007-2011","Ratio to State Median","Median Home Value",0.91
@@ -210,7 +210,7 @@
 "Tolland County","09013","2009-2013","Number","Median Home Value",254800
 "Tolland County","09013","2009-2013","Number","Margins of Error",3819
 "Tolland County","09013","2009-2013","Ratio to State Median","Median Home Value",0.91
-"Tolland County","09013","2009-2013","Ratio to State Median","Margins of Error",0.02
+"Tolland County","09013","2009-2013","Ratio to State Median","Margins of Error",0.01
 "Tolland County","09013","2010-2014","Number","Median Home Value",252400
 "Tolland County","09013","2010-2014","Number","Margins of Error",4414
 "Tolland County","09013","2010-2014","Ratio to State Median","Median Home Value",0.92
@@ -226,19 +226,19 @@
 "Windham County","09015","2006-2010","Number","Median Home Value",230100
 "Windham County","09015","2006-2010","Number","Margins of Error",3580
 "Windham County","09015","2006-2010","Ratio to State Median","Median Home Value",0.78
-"Windham County","09015","2006-2010","Ratio to State Median","Margins of Error",0.02
+"Windham County","09015","2006-2010","Ratio to State Median","Margins of Error",0.01
 "Windham County","09015","2007-2011","Number","Median Home Value",227000
 "Windham County","09015","2007-2011","Number","Margins of Error",3524
 "Windham County","09015","2007-2011","Ratio to State Median","Median Home Value",0.77
-"Windham County","09015","2007-2011","Ratio to State Median","Margins of Error",0.02
+"Windham County","09015","2007-2011","Ratio to State Median","Margins of Error",0.01
 "Windham County","09015","2008-2012","Number","Median Home Value",219300
 "Windham County","09015","2008-2012","Number","Margins of Error",3434
 "Windham County","09015","2008-2012","Ratio to State Median","Median Home Value",0.77
-"Windham County","09015","2008-2012","Ratio to State Median","Margins of Error",0.02
+"Windham County","09015","2008-2012","Ratio to State Median","Margins of Error",0.01
 "Windham County","09015","2009-2013","Number","Median Home Value",211100
 "Windham County","09015","2009-2013","Number","Margins of Error",3698
 "Windham County","09015","2009-2013","Ratio to State Median","Median Home Value",0.76
-"Windham County","09015","2009-2013","Ratio to State Median","Margins of Error",0.02
+"Windham County","09015","2009-2013","Ratio to State Median","Margins of Error",0.01
 "Windham County","09015","2010-2014","Number","Median Home Value",203200
 "Windham County","09015","2010-2014","Number","Margins of Error",4537
 "Windham County","09015","2010-2014","Ratio to State Median","Median Home Value",0.74
@@ -246,8 +246,8 @@
 "Windham County","09015","2011-2015","Number","Median Home Value",197500
 "Windham County","09015","2011-2015","Number","Margins of Error",3091
 "Windham County","09015","2011-2015","Ratio to State Median","Median Home Value",0.73
-"Windham County","09015","2011-2015","Ratio to State Median","Margins of Error",0.02
+"Windham County","09015","2011-2015","Ratio to State Median","Margins of Error",0.01
 "Windham County","09015","2012-2016","Number","Median Home Value",196900
 "Windham County","09015","2012-2016","Number","Margins of Error",3120
 "Windham County","09015","2012-2016","Ratio to State Median","Median Home Value",0.73
-"Windham County","09015","2012-2016","Ratio to State Median","Margins of Error",0.02
+"Windham County","09015","2012-2016","Ratio to State Median","Margins of Error",0.01

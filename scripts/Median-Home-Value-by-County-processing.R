@@ -17,7 +17,7 @@ source('./scripts/acsHelpers.R')
 
 options(scipen=999)
 acsdata <- getACSData(
-    getCTGeos("town"),
+    getCTGeos("county"),
     yearList = 2010:2016,
     table = "B25077"
 )
@@ -79,7 +79,7 @@ merge <- merge(med_home_val, ct_value, by = "Year")
 merge$Number.x[is.na(merge$Number.x)] <- 1000001
 
 merge$`Ratio to State Median Num` <- merge$Number.x / merge$Number.y
-merge$`Ratio to State Median MOE` <- sqrt((merge$`Margins of Error.x`)^2 + ((merge$Number.x/merge$Number.y)*((merge$`Margins of Error.y`)^2))) / (merge$Number.x)
+merge$`Ratio to State Median MOE` <- sqrt((merge$`Margins of Error.x`)^2 + ((merge$Number.x/merge$Number.y)*((merge$`Margins of Error.y`)^2))) / (merge$Number.y)
 
 
 merge <- merge %>% 
