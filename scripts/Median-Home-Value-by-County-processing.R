@@ -18,7 +18,7 @@ source('./scripts/acsHelpers.R')
 options(scipen=999)
 acsdata <- getACSData(
     getCTGeos("county"),
-    yearList = 2010:2018,
+    yearList = 2010:2019,
     table = "B25077"
 )
 
@@ -122,7 +122,7 @@ data_long_final <- data_long_final %>%
 
 write.table(
     data_long_final,
-    file.path("data", "median-home-value-county-2018.csv"),
+    file.path("data", "median-home-value-county-2019.csv"),
     sep = ",",
     row.names = F,
     col.names = T,
